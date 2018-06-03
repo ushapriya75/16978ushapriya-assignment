@@ -1,10 +1,6 @@
+//16978-Usha Priya Mangina//
+package ushapriya16978;
 
-package mp;
-
-/**
- *
- * //16978-Usha Priya Mangina//
- */
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
 import java.util.List;
@@ -15,12 +11,12 @@ import javax.swing.JScrollPane;
 import javax.swing.JTable;
 import javax.swing.border.EmptyBorder;
 
-public class DueFee extends JFrame {
-	static DueFee frame;
-	public DueFee() {
+public class ViewStudent extends JFrame {
+	static ViewStudent frame;
+	public ViewStudent() {
 		//Code to view data in JTable
-		List<Student> list=StudentDao.due();
-	int size=list.size();
+		List<Student> list=StudentDao.view();
+		int size=list.size();
 		
 		String data[][]=new String[size][12];
 		int row=0;
@@ -54,7 +50,7 @@ public class DueFee extends JFrame {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
-					frame = new DueFee();
+					frame = new ViewStudent();
 					frame.setVisible(true);
 				} catch (Exception e) {
 					e.printStackTrace();

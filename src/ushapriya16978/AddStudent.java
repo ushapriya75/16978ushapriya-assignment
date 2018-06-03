@@ -1,5 +1,5 @@
 
-package mp;
+package ushapriya16978;
 
 import java.awt.Color;
 import java.awt.EventQueue;

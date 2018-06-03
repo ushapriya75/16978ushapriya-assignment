@@ -1,5 +1,5 @@
 //16978-Usha Priya Mangina//
-package mp;
+package ushapriya16978;
 
 /**
  *
@@ -51,7 +51,7 @@ public class FeeReport extends JFrame {
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 		setContentPane(contentPane);
 		
-		JLabel lblFeeReport = new JLabel("Fee Report");
+		JLabel lblFeeReport = new JLabel("Welcome to VGC");
 		lblFeeReport.setFont(new Font("Tahoma", Font.PLAIN, 20));
 		
 		JButton btnAdminLogin = new JButton("Admin Login");

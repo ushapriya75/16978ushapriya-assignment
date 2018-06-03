@@ -1,5 +1,5 @@
 //16978-Usha Priya Mangina//
-package mp;
+package ushapriya16978;
 
 import java.sql.*;
 import java.util.ArrayList;

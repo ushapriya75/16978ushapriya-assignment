@@ -1,5 +1,5 @@
 
-package mp;
+package ushapriya16978;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -17,7 +17,7 @@ public class AccountantDao {
 		Connection con=null;
 		try{
 			Class.forName("com.mysql.jdbc.Driver");
-			con=DriverManager.getConnection("jdbc:mysql://localhost:3306/virtual","root","");
+			con=DriverManager.getConnection("jdbc:mysql://localhost:3306/16978","root","");
 		}catch(Exception e){System.out.println(e);}
 		return con;
 	}

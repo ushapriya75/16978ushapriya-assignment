@@ -1,13 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+//16978-Usha Priya Mangina//
 package mp;
 
 /**
  *
- * @author UserPC
+ * //16978-Usha Priya Mangina//
  */
 import java.awt.BorderLayout;
 import java.awt.EventQueue;

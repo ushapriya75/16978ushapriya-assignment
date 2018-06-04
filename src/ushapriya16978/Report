@@ -1,0 +1,10 @@
+College assignment report
+completed tasks--- login for admin, faculty, student.
+admin can add new accountants and manage , faculty can view students and details.
+connected to sql workbench and saved the details in them.
+editing students details was hard because the details are saved and addded button to edit their fee details by searching and sorting.
+GUI components with jpanels, layout are done.
+was hard to load details at first from sql to netbeans but took some guidance and referred how to tackle them and are fine.
+created arrays and list.
+Linked classes to make connection.
+used basic design and colors to give good impact as just simple and nice.

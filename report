@@ -1,16 +1,28 @@
 College assignment report
-completed tasks--- login for admin, faculty, student.
-admin can add new accountants and manage , faculty can view students and details.
-admin can see fee details and balance fee
-course details can be viewed under course section.
-used strings, get set to connect 
-layouts are done.
-use of OOP.
-database schema and uploaded file with netabeans as sql files.
-connected to sql workbench and saved the details in them.
-editing students details was hard because the details are saved and addded button to edit their fee details by searching and sorting.
-GUI components with jpanels, layout are done.
-was hard to load details at first from sql to netbeans but took some guidance and referred how to tackle them and are fine.
-created arrays and list.
-Linked classes to make connection.
-used basic design and colors to give good impact as just simple and nice.
+
+Github link---- https://github.com/ushapriya75/16978ushapriya-assignment
+
+-completed tasks--- 
+login for admin, faculty, student.
+-admin can add new accountants and manage , faculty can view students and details.
+-admin can see fee details and balance fee
+-made the privileages to edit student students under edit categeory.
+-course details can be viewed under course section.
+-used strings, get set to connect 
+-layouts are done.
+-use of OOP.
+-database schema and uploaded file with netabeans as sql files.
+-connected to sql workbench and saved the details in them.
+-editing students details was hard because the details are saved and addded button to edit their fee details by searching and sorting.
+-GUI components with jpanels, layout are done.
+-was hard to load details at first from sql to netbeans but took some guidance and referred how to tackle them and are fine.
+-created arrays and list.
+-Linked classes to make connection.
+-used basic design and colors to give good impact as just simple and nice.
+
+                       Username         password         
+Admin Login            admin            admin123
+Accountant Login       usha             priya
+                       jonathan         jonathan
+                       onathan          jonathan
+       
